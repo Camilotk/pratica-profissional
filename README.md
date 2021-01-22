@@ -1,0 +1,14 @@
+# Prática Profissional I
+
+Neste repositório estão todos os trabalhos desenvolvidos durante a disciplina de Prática Profissional I cursada em 2020/2 no IFRS. Nesta cadeira aprendemos a desenvolver sistemas de forma fullstack utilizando React.
+
+Todos os exercicios desenvolvidos estão no repositório sendo eles:
+
+| Número | Trabalho   | Conteúdo           | Enunciado                                                                                                                                                                                          | Link                                                                                    |
+|--------|------------|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| 01     | Journal    | Components e Props | [Aqui](https://github.com/Camilotk/pratica-profissional/blob/master/Ex1/Atividades%20Pr%C3%A1ticas%20-%20Componentes%20e%20Props.pdf)                                                              | [Aqui](https://github.com/Camilotk/pratica-profissional/tree/master/Ex1/my-blog)        |
+| 02     | Todo List  | React Hooks        | [Aqui](https://github.com/Camilotk/pratica-profissional/blob/master/Ex2/Atividades%20Pr%C3%A1ticas%20-%20React%20Hooks.pdf)                                                                        | [Aqui](https://github.com/Camilotk/pratica-profissional/tree/master/Ex2/my-todo)        |
+| 03     | Fake API   | APIs e Hooks       | [Aqui](https://github.com/Camilotk/pratica-profissional/blob/master/Ex3/Atividades%20Pr%C3%A1ticas%20-%20Consumindo%20uma%20API%20RESTful%20com%20React%20Hooks.pdf)                               | [Aqui](https://github.com/Camilotk/pratica-profissional/tree/master/Ex3/my-api-hook)    |
+| 04     | Roteamento | APIs               | [Aqui](https://github.com/Camilotk/pratica-profissional/blob/master/Ex4/Atividades%20Pr%C3%A1ticas%20-%20Roteamento%20b%C3%A1sico%20no%20Express.js%20(1)-1.pdf)                                   | [Aqui](https://github.com/Camilotk/pratica-profissional/tree/master/Ex4/node-ifrs)      |
+| 05     | API Cursos | MongoDB            | [Aqui](https://github.com/Camilotk/pratica-profissional/blob/master/Ex5/Atividades%20Pr%C3%A1ticas%20-%20Criando%20uma%20API%20RESTful%20com%20Node.js%20%2B%20Express%20%2B%20Mongoose.pdf)       | [Aqui](https://github.com/Camilotk/pratica-profissional/tree/master/Ex5/node-mongo)     |
+| 06     | API Cursos | MongoDB            | [Aqui](https://github.com/Camilotk/pratica-profissional/blob/master/Ex6/Atividades%20Pr%C3%A1ticas%20-%20Criando%20uma%20API%20RESTful%20com%20Node.js%20%2B%20Express%20%2B%20Mongoose%20(1).pdf) | [Aqui](https://github.com/Camilotk/pratica-profissional/tree/master/Ex6/node-api-mongo) |
